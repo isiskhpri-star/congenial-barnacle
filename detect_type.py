@@ -1,6 +1,5 @@
 """Utility module for detecting the type of a variable."""
 
-import collections
 import datetime
 import re
 from typing import Any
